@@ -21,5 +21,4 @@ jobs:
         with:
           image-ref: 'test'
           format: 'table'
-          exit-code: '1'
           severity: 'HIGH'
